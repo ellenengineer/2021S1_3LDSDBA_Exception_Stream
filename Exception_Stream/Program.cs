@@ -10,15 +10,15 @@ namespace Exception_Stream
         static void Main(string[] args)
         {
             // 1 - Exceção
-            TratamentoExcecao();
+           // TratamentoExcecao();
 
             //2 - CriarArquivo
-            CriarArquivo();
+           // CriarArquivo();
 
             //3 - Cria e le arquivo
-            LerArquivo();
+            //LerArquivo();
 
-            //3 - Gerencia Diretorio
+            //4 - Gerencia Diretorio
             GerenciaDiretorio();
 
             Console.ReadLine();
